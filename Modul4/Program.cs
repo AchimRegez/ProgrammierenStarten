@@ -6,7 +6,17 @@ namespace Modul4
     {
         static void Main(string[] args)
         {
-            /* Console ist die Klasse in der sich die Methode befindet
+            /*
+             * Grundlegendes
+             * -Funktionen = Methoden, in der OOP sagt man Methoden
+             * -Methoden sind Code-Blöcke, die man über ihren Namen aufrugen kann
+             * -Methoden enthalten also bereits geschriebenen Code, den man immer wieder über den Methoden-Aufruf komplett ausführen kann
+             * -Methoden können Daten als Parameter annehmen, welche innerhalb des Codeblocks verarbeitet werden
+             * -Methoden können Werte als Ergebnise zurück geben
+             */
+
+            /* 
+             * Console ist die Klasse in der sich die Methode befindet
              * WriteLine ist der Name der Methode
              * ("Hello") ist die Übergabe des Parameters
              * 

@@ -23,14 +23,15 @@ namespace Modul5BoolescheOperatoren
 
         static void Main(string[] args)
         {
+            int alter = 18;
             bool mobil = true;
             bool qualifiziert = true;
             bool testBestanden = false;
-            bool schüchtern = false;
+            bool schuechtern = false;
 
 
 
-            if (mobil && (qualifiziert || testBestanden) && !schüchtern)
+            if ((alter >= 18) && mobil && (qualifiziert || testBestanden) && !schuechtern) // if ((alter >= 18) && mobil == true && (qualifiziert == true || testBestanden == true) && schuechtern == false) 
             {
                 Console.WriteLine("Du wurdest eingestellt!");
             }
