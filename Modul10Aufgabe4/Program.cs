@@ -14,17 +14,21 @@ namespace Modul10Aufgabe4
             peopleInClassroom[2] = new Student("Anna", "Matt", 17);
             peopleInClassroom[3] = new Student("Peter", "Fredl", 18);
             peopleInClassroom[4] = new Student("Matthias", "Maier", 19);
-
-            foreach(Person p in peopleInClassroom)
+            
+            foreach (Person p in peopleInClassroom)
             {
                 if (p is Teacher)
                 {
-                    p.PrintInformation();                    
+                    var t = (Teacher)p;
+                    p.PrintInformation();
+                    t.Teach();
                     Console.WriteLine();
                 }
                 else
                 {
-                    p.PrintInformation();   
+                    var s = (Student)p;
+                    p.PrintInformation();
+                    s.ListenToTeacher();
                     Console.WriteLine();
                 }
             }

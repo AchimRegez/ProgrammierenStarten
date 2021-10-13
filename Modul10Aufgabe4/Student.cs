@@ -14,7 +14,7 @@ namespace Modul10Aufgabe4
         }
         public void ListenToTeacher()
         {
-            Console.WriteLine("Der/Die Schüler/in {0} {1} hört dem Lehrer zu!", FirstName, LastName);
+            Console.WriteLine("Der/Die Schüler/in {0} {1} hört dem Lehrer zu...", FirstName, LastName);
         }
     }
 }

@@ -14,7 +14,7 @@ namespace Modul10Aufgabe4
         }
         public void Teach()
         {
-            Console.WriteLine("Herr/Frau {0} unterrichtet die Klasse", LastName);
+            Console.WriteLine("Herr/Frau {0} unterrichtet die Klasse...", LastName);
         }
     }
 }
