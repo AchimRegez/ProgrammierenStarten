@@ -25,8 +25,8 @@ namespace Modul11Aufgabe1
 
             foreach(IPet pet in pets)
             {
-                Console.WriteLine(pet.Gender);
-                Console.WriteLine(pet.Age);
+                Console.WriteLine("Geschlecht: {0}", pet.Gender);
+                Console.WriteLine("Alter: {0}", pet.Age);
                 pet.Drink();
                 pet.Eat();
                 Console.WriteLine();
