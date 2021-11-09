@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Modul4MethodenAufgabe2Loesung
+namespace Modul04MethodenAufgabe02Loesung
 {
     class Program
     {

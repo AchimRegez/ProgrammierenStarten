@@ -3,7 +3,7 @@
 //Schreibe eine Methode, die deinen Namen als Parameter annimmt und dich über eine Konsolenausgabe
 //mit diesem Namen begrüßt
 
-namespace Modul4MethodenAufgabe1
+namespace Modul04MethodenAufgabe01
 {
     class Program
     {

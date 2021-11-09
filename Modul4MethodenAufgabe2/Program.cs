@@ -4,7 +4,7 @@
 //Ergebnis als Rückgabewert zurückgeben.
 //Schreibe jeweils eine Methode für die Addition, Subtraktion, Division und Multiplikation
 
-namespace Modul4MethodenAufgabe2
+namespace Modul04MethodenAufgabe02
 {
     class Program
     {

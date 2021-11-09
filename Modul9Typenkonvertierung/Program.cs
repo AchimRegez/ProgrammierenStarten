@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Modul9Typenkonvertierung
+namespace Modul09Typenkonvertierung
 {
     class Program
     {

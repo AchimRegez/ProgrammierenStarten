@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Modul8Hangman
+namespace Modul08Hangman
 {
     class Program
     {

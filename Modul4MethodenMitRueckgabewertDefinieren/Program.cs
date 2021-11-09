@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Modul4MethodenMitRueckgabewertDefinieren
+namespace Modul04MethodenMitRueckgabewertDefinieren
 {
     class Program
     {

@@ -3,23 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgrammierenStarten", "ProgrammierenStarten\ProgrammierenStarten.csproj", "{8BA63347-237C-4349-AE46-2839B92BE363}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul02", "Modul2\Modul02.csproj", "{528B433B-9502-46BD-8605-C4CA495AC097}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul2", "Modul2\Modul2.csproj", "{528B433B-9502-46BD-8605-C4CA495AC097}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul03", "Modul3\Modul03.csproj", "{301F4333-1C39-4309-A03E-7352E30E6666}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul3", "Modul3\Modul3.csproj", "{301F4333-1C39-4309-A03E-7352E30E6666}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul4", "Modul4\Modul4.csproj", "{C1E7D7BD-1585-4852-AF0E-43D3499174BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul04", "Modul4\Modul04.csproj", "{C1E7D7BD-1585-4852-AF0E-43D3499174BC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul4MethodenPraxis", "Modul4MethodenPraxis\Modul4MethodenPraxis.csproj", "{0F7695F3-89EB-4625-A7D9-CADB3B8073B3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul4MethodenAufgabe1", "Modul4MethodenAufgaben\Modul4MethodenAufgabe1.csproj", "{6F8C6734-1AD3-40A7-B008-4CDE54175E66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul04MethodenAufgabe1", "Modul4MethodenAufgaben\Modul04MethodenAufgabe1.csproj", "{6F8C6734-1AD3-40A7-B008-4CDE54175E66}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul4MethodenAufgabe2", "Modul4MethodenAufgabe2\Modul4MethodenAufgabe2.csproj", "{EF830AA5-F1A3-48ED-855A-275BE7388EEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul04MethodenAufgabe2", "Modul4MethodenAufgabe2\Modul04MethodenAufgabe2.csproj", "{EF830AA5-F1A3-48ED-855A-275BE7388EEF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul4MethodenAufgabe1Loesung", "Modul4MethodenAufgabe1Loesung\Modul4MethodenAufgabe1Loesung.csproj", "{A3826F6C-9060-4D4F-9F3D-6B4B83F15318}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul04MethodenAufgabe1Loesung", "Modul4MethodenAufgabe1Loesung\Modul04MethodenAufgabe1Loesung.csproj", "{A3826F6C-9060-4D4F-9F3D-6B4B83F15318}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul4MethodenAufgabe2Loesung", "Modul4MethodenAufgabe2Loesung\Modul4MethodenAufgabe2Loesung.csproj", "{246EB39C-2938-415B-B2FA-0972F449EADB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul04MethodenAufgabe2Loesung", "Modul4MethodenAufgabe2Loesung\Modul04MethodenAufgabe2Loesung.csproj", "{246EB39C-2938-415B-B2FA-0972F449EADB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul5IfElse", "Modul5IfElse\Modul5IfElse.csproj", "{458FDDD4-7540-4D9F-9ABB-C41459129602}"
 EndProject
@@ -43,9 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul5Aufgabe3Loesung", "Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul5Aufgabe4Loesung", "Modul5Aufgabe4Loesung\Modul5Aufgabe4Loesung.csproj", "{52D29696-ED4B-4F4B-81FF-FAB09E7C3C57}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul4MethodenOhneRueckgabewertDefinieren", "Modul4MethodenOhneRueckgabewertDefinieren\Modul4MethodenOhneRueckgabewertDefinieren.csproj", "{76883BD1-FFFE-4607-A348-D479737E1A0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul04MethodenOhneRueckgabewertDefinieren", "Modul4MethodenOhneRueckgabewertDefinieren\Modul04MethodenOhneRueckgabewertDefinieren.csproj", "{76883BD1-FFFE-4607-A348-D479737E1A0F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul4MethodenMitRueckgabewertDefinieren", "Modul4MethodenMitRueckgabewertDefinieren\Modul4MethodenMitRueckgabewertDefinieren.csproj", "{13BE3105-DB58-45D6-BE16-C8948D5826CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul04MethodenMitRueckgabewertDefinieren", "Modul4MethodenMitRueckgabewertDefinieren\Modul04MethodenMitRueckgabewertDefinieren.csproj", "{13BE3105-DB58-45D6-BE16-C8948D5826CA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul5Aufgabe1New", "Modul5Aufgabe1New\Modul5Aufgabe1New.csproj", "{27B7BE93-E3EA-4396-B255-3087939E45C2}"
 EndProject
@@ -105,9 +103,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul7Aufgabe8Loesung", "Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul7Aufgabe8", "Modul7Aufgabe8\Modul7Aufgabe8.csproj", "{C1FD4A5C-FE92-45CC-9477-3E227C9742E0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul8Hangman", "Modul8Hangman\Modul8Hangman.csproj", "{07C6CFB3-A30C-4C17-86F0-98878D9AFED6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul08Hangman", "Modul8Hangman\Modul08Hangman.csproj", "{07C6CFB3-A30C-4C17-86F0-98878D9AFED6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul9Typenkonvertierung", "Modul9Typenkonvertierung\Modul9Typenkonvertierung.csproj", "{93F60816-45CE-4992-AD12-4003CB429C77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul09Typenkonvertierung", "Modul9Typenkonvertierung\Modul09Typenkonvertierung.csproj", "{93F60816-45CE-4992-AD12-4003CB429C77}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul10KlassenDefinierenUndInstanzieren", "Modul10KlassenDefinierenUndInstanzieren\Modul10KlassenDefinierenUndInstanzieren.csproj", "{C7B55C07-FD25-4EA4-8C88-F03078A20B82}"
 EndProject
@@ -189,15 +187,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul16GenerischeKlassen", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul16GenerischeMethoden", "Modul16GenerischeMethoden\Modul16GenerischeMethoden.csproj", "{2685D23D-0531-40F6-840D-D69886F919F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul17Delegates", "Modul17Delegates\Modul17Delegates.csproj", "{4AABEBD7-39D0-41F2-A600-14321EEBF72C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul17Delegates", "Modul17Delegates\Modul17Delegates.csproj", "{4AABEBD7-39D0-41F2-A600-14321EEBF72C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul17AnonymeMethodenUndLambdaAusdrücke", "Modul17AnonymeMethodenUndLambdaAusdrücke\Modul17AnonymeMethodenUndLambdaAusdrücke.csproj", "{EA0F8097-E27D-45CB-959F-E1427070F597}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul17AnonymeMethodenUndLambdaAusdrücke", "Modul17AnonymeMethodenUndLambdaAusdrücke\Modul17AnonymeMethodenUndLambdaAusdrücke.csproj", "{EA0F8097-E27D-45CB-959F-E1427070F597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul17MulticastDelegates", "Modul17MulticastDelegates\Modul17MulticastDelegates.csproj", "{EC9F189A-931F-4EF3-A52C-164A7694BEF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul17MulticastDelegates", "Modul17MulticastDelegates\Modul17MulticastDelegates.csproj", "{EC9F189A-931F-4EF3-A52C-164A7694BEF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul18EventsDefinierenUndAusloesen", "Modul18EventsDefinierenUndAusloesen\Modul18EventsDefinierenUndAusloesen.csproj", "{9D4183C4-BCAB-48C2-A93F-146FF0C9AE05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul18EventsDefinierenUndAusloesen", "Modul18EventsDefinierenUndAusloesen\Modul18EventsDefinierenUndAusloesen.csproj", "{9D4183C4-BCAB-48C2-A93F-146FF0C9AE05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul18EventArgsVerwenden", "Modul18EventArgsVerwenden\Modul18EventArgsVerwenden.csproj", "{25237914-8EC9-42D2-B9CF-18B5E17A57F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul18EventArgsVerwenden", "Modul18EventArgsVerwenden\Modul18EventArgsVerwenden.csproj", "{25237914-8EC9-42D2-B9CF-18B5E17A57F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul19TryCatch", "Modul19TryCatch\Modul19TryCatch.csproj", "{75D9D5DD-F30C-4C1B-B01C-0BEF1E8E6C3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul20MathClass", "Modul20MathClass\Modul20MathClass.csproj", "{014F91E5-A0A8-4624-BEA5-224AC070246F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -205,10 +207,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8BA63347-237C-4349-AE46-2839B92BE363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8BA63347-237C-4349-AE46-2839B92BE363}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8BA63347-237C-4349-AE46-2839B92BE363}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8BA63347-237C-4349-AE46-2839B92BE363}.Release|Any CPU.Build.0 = Release|Any CPU
 		{528B433B-9502-46BD-8605-C4CA495AC097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{528B433B-9502-46BD-8605-C4CA495AC097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{528B433B-9502-46BD-8605-C4CA495AC097}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -597,6 +595,14 @@ Global
 		{25237914-8EC9-42D2-B9CF-18B5E17A57F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25237914-8EC9-42D2-B9CF-18B5E17A57F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25237914-8EC9-42D2-B9CF-18B5E17A57F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D9D5DD-F30C-4C1B-B01C-0BEF1E8E6C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D9D5DD-F30C-4C1B-B01C-0BEF1E8E6C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D9D5DD-F30C-4C1B-B01C-0BEF1E8E6C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D9D5DD-F30C-4C1B-B01C-0BEF1E8E6C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014F91E5-A0A8-4624-BEA5-224AC070246F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014F91E5-A0A8-4624-BEA5-224AC070246F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014F91E5-A0A8-4624-BEA5-224AC070246F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014F91E5-A0A8-4624-BEA5-224AC070246F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

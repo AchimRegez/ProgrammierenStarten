@@ -18,26 +18,38 @@ namespace Modul18EventArgsVerwenden
             Console.ReadKey();
         }
 
-        static void OnAdded()
+        static void OnAdded(object sender, AddedEventArgs args)
         {
-            Console.WriteLine("Ein Objekt wurde zur Liste hinzugefügt...");
+            Console.WriteLine("Das Objekt {0} wurde zur Liste hinzugefügt...", args.AddedItem.ToString());
         }
     }
 
-    public delegate void AddedEventHandler();
+    delegate void AddedEventHandler(object sender, AddedEventArgs args);
     class BetterList<T> : List<T>
     {
         public new void Add(T item)
         {
             base.Add(item);
-            OnAdded();
+            OnAdded(item);
         }
 
         public event AddedEventHandler Added;
-        private void OnAdded()
+        private void OnAdded(T item)
         {
             if (Added != null)
-                Added();
+            {
+                Added(this, new AddedEventArgs(item));
+            }
+        }
+    }
+
+    class AddedEventArgs : EventArgs
+    {
+        public object AddedItem { get; set; }
+
+        public AddedEventArgs(object addedItem)
+        {
+            AddedItem = addedItem;
         }
     }
 }

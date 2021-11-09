@@ -24,7 +24,7 @@ namespace Modul18EventsDefinierenUndAusloesen
         }
     }
 
-    public delegate void AddedEventHandler();
+    delegate void AddedEventHandler();
     class BetterList<T> : List<T>
     {
         public new void Add(T item)
