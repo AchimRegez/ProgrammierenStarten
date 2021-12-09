@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Modul4MethodenPraxis
+namespace Modul04MethodenPraxis
 {
     class Program
     {
