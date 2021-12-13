@@ -19,5 +19,12 @@ namespace Modul23PraxisprojektBuchhaltungssoftware
             Balance = balance;
             Transactions = new List<Transaction>();
         }
+
+        public void AddTransaction(Transaction transaction)
+        {
+            Transactions.Add(transaction);
+            Balance += transaction.Amount;
+            ProfileManager.SaveProfile(this);
+        }
     }
 }

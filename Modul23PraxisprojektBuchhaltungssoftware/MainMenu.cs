@@ -35,17 +35,17 @@ namespace Modul23PraxisprojektBuchhaltungssoftware
                 switch (input)
                 {
                     case "1":
-                        //nextMenu = new NewTransactionMenu();
+                        nextMenu = new NewTransactionMenu();
                         break;
 
                     case "2":
-                        //nextMenu = new ShowTransactionsMenu();
+                        nextMenu = new ShowTransactionsMenu();
                         break;
 
                     case "3":
                         nextMenu = new StartMenu();
                         break;
-
+                    
                     default:
                         correctInput = false;
                         Console.ForegroundColor = ConsoleColor.Red;

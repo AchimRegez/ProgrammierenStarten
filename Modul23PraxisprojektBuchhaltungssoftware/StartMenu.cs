@@ -17,6 +17,7 @@ namespace Modul23PraxisprojektBuchhaltungssoftware
             Console.WriteLine();
             Console.WriteLine("[1] Neues Profil erstellen");
             Console.WriteLine("[2] Profil laden");
+            Console.WriteLine("[3] Beendet das Programm");
             Console.WriteLine();
 
             InputOption();            
@@ -42,6 +43,9 @@ namespace Modul23PraxisprojektBuchhaltungssoftware
 
                     case "2":
                         nextMenu = new LoadProfileMenu();
+                        break;
+
+                    case "3":
                         break;
 
                     default:
