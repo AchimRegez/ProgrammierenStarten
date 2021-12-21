@@ -221,11 +221,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul22UsingStatement", "Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul23PraxisprojektBuchhaltungssoftware", "Modul23PraxisprojektBuchhaltungssoftware\Modul23PraxisprojektBuchhaltungssoftware.csproj", "{B447E861-D8C6-478B-BB91-4E294A7193ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_01_Delegates", "Modul25Delegates\Modul25_01_Delegates.csproj", "{66D7A9BB-C6AC-4526-9E38-02305F84EE75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_01_Delegates", "Modul25Delegates\Modul25_01_Delegates.csproj", "{66D7A9BB-C6AC-4526-9E38-02305F84EE75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_02_AnonymeMethodenUndLambdaAusdruecke", "Modul25AnonymeMethodenUndLambdaAusdruecke\Modul25_02_AnonymeMethodenUndLambdaAusdruecke.csproj", "{19286F55-F5FC-406D-8D4E-E9CDD1B5F75F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_02_AnonymeMethodenUndLambdaAusdruecke", "Modul25AnonymeMethodenUndLambdaAusdruecke\Modul25_02_AnonymeMethodenUndLambdaAusdruecke.csproj", "{19286F55-F5FC-406D-8D4E-E9CDD1B5F75F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_03_ExtensionMethods", "Modul25_03_ExtensionMethods\Modul25_03_ExtensionMethods.csproj", "{C768D667-2AA8-4F4D-BF64-2928B58514A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_03_ExtensionMethods", "Modul25_03_ExtensionMethods\Modul25_03_ExtensionMethods.csproj", "{C768D667-2AA8-4F4D-BF64-2928B58514A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_04_LINQ", "Modul25_04_LINQ\Modul25_04_LINQ.csproj", "{6F0FB0E7-2FC6-47BE-ADFD-91C9E86ACA0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_05_MethodenUndQuerySyntax", "Modul25_05_MethodenUndQuerySyntax\Modul25_05_MethodenUndQuerySyntax.csproj", "{2C6EE385-473C-424C-8182-E51E0C0371F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_06_WhereMethode", "Modul25_06_WhereMethode\Modul25_06_WhereMethode.csproj", "{D58BA794-5EE8-416F-A7C6-A6D9FA6276A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_07_OfTypeMethode", "Modul25_07_OfTypeMethode\Modul25_07_OfTypeMethode.csproj", "{9E021E72-9A30-43A0-B6D0-030F8CA28CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_08_OrderByUndThenBy", "Modul25_08_OrderByUndThenBy\Modul25_08_OrderByUndThenBy.csproj", "{498FE237-A19A-4C1B-AF7E-B3C754776E93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -681,6 +691,26 @@ Global
 		{C768D667-2AA8-4F4D-BF64-2928B58514A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C768D667-2AA8-4F4D-BF64-2928B58514A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C768D667-2AA8-4F4D-BF64-2928B58514A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0FB0E7-2FC6-47BE-ADFD-91C9E86ACA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0FB0E7-2FC6-47BE-ADFD-91C9E86ACA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0FB0E7-2FC6-47BE-ADFD-91C9E86ACA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0FB0E7-2FC6-47BE-ADFD-91C9E86ACA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6EE385-473C-424C-8182-E51E0C0371F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6EE385-473C-424C-8182-E51E0C0371F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6EE385-473C-424C-8182-E51E0C0371F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6EE385-473C-424C-8182-E51E0C0371F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58BA794-5EE8-416F-A7C6-A6D9FA6276A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58BA794-5EE8-416F-A7C6-A6D9FA6276A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58BA794-5EE8-416F-A7C6-A6D9FA6276A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58BA794-5EE8-416F-A7C6-A6D9FA6276A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E021E72-9A30-43A0-B6D0-030F8CA28CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E021E72-9A30-43A0-B6D0-030F8CA28CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E021E72-9A30-43A0-B6D0-030F8CA28CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E021E72-9A30-43A0-B6D0-030F8CA28CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498FE237-A19A-4C1B-AF7E-B3C754776E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498FE237-A19A-4C1B-AF7E-B3C754776E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498FE237-A19A-4C1B-AF7E-B3C754776E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498FE237-A19A-4C1B-AF7E-B3C754776E93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
