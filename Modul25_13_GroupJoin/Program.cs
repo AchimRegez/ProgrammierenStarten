@@ -2,6 +2,20 @@
 using System.Collections.Generic;
 using System.Linq;
 
+/*
+ *Die GroupJoin-Methode
+ *Verknüfte Daten in Gruppen unterteilen
+ *
+ *
+ *Was ist ein GroupJoin
+ *->Bei einem GroupJoin werden die verknüpften Daten nicht als einfache verknüpfte Objekte 
+ *  in die Ergebnismenge aufgenommen, sondern als Objekte die Gruppen enthalten
+ *->Die Gruppen können wie bei der GroupBy-Methode einzeln durchlaufen werden
+ *->Die Objekte der Inner-Sequence werden in Gruppen aufgeteilt
+ * 
+ * ->Die GroupJoin-Methode erwartet dieselben Parameter wie die einfache Join-Methode
+ */
+
 namespace Modul25_14_GroupJoin
 {
     class Program

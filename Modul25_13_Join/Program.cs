@@ -2,6 +2,26 @@
 using System.Linq;
 using System.Collections.Generic;
 
+/*
+ *Die Join-Methode
+ *Elemente aus verschiedenen Datenquellen miteinander verknüpfen
+ *
+ *
+ *Was ist ein Join?
+ *->Mit einem Join können wir logisch zusammengehörende Elemente aus unterschiedlichen Datenquellen miteinander verknüpfen
+ *->Dafür brauchen die Elemente eine jeweils gleiche Eigenschaft, anhand der man die Verknüpfung durchführt
+ *
+ *
+ *Wie funktioniert ein Join?
+ *->Die Join-Methode benötigt 5 verschiedene Informationen
+ *-->Outer-Sequence - Erste Datenquelle die wir verknüpfen wollen mit...
+ *-->Inner-Sequence - Zweite Datenquelle die mit der ersten verknüpft werden soll
+ *-->Outer-Key-Selector - Gemeinsame Eigenschaft der ersten Datenquelle
+ *-->Inner-Key-Selector - Gemeinsame Eigenschaft der zweiten Datenquelle
+ *-->Das Objekt das zurückgegeben werden soll - Stellt die Verknüpften Objekte dar
+ * 
+ */
+
 
 namespace Modul25_13_Join
 {
