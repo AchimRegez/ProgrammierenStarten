@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<!--Kundenliste-->
+<Kunden>
+	<Kunde>
+		<KundenID>1</KundenID>
+		<Vorname>Peter</Vorname>
+		<Nachname>Smith</Nachname>
+		<Addresse Ort="London" Strasse="Smith Street 2"/>
+	</Kunde>
+
+	<Kunde>
+		<KundenID>2</KundenID>
+		<Vorname>Hans</Vorname>
+		<Nachname>Noetig</Nachname>
+		<Addresse Ort="Zuerich" Strasse="Langistrasse 12"/>
+	</Kunde>
+</Kunden>
