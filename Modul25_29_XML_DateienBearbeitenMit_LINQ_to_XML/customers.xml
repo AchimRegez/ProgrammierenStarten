@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kunden>
+  <Kunde />
+  <Kunde>
+    <KundenID>2</KundenID>
+    <Vorname>Hans</Vorname>
+    <Nachname>Nötig</Nachname>
+    <Adresse Ort="Manchester" Strasse="Stone Street 69" />
+  </Kunde>
+  <Kunde />
+</Kunden>

@@ -267,13 +267,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_22_UnionMethode", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_23_SkipUndTakeMethode", "Modul25_23_SkipUndTakeMethode\Modul25_23_SkipUndTakeMethode.csproj", "{B87EC3EF-024A-42C0-BFED-EF93B84415FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_24_SequenzenKonvertieren", "Modul25_24_SequenzenKonvertieren\Modul25_24_SequenzenKonvertieren.csproj", "{505441D3-AC50-458C-8914-219AD0627F9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_24_SequenzenKonvertieren", "Modul25_24_SequenzenKonvertieren\Modul25_24_SequenzenKonvertieren.csproj", "{505441D3-AC50-458C-8914-219AD0627F9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_25_AufbauEinerXML_Datei", "Modul25_25_AufbauEinerXML_Datei\Modul25_25_AufbauEinerXML_Datei.csproj", "{8A67721C-9B66-4EFA-A5E8-C4899F5D959B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_25_AufbauEinerXML_Datei", "Modul25_25_AufbauEinerXML_Datei\Modul25_25_AufbauEinerXML_Datei.csproj", "{8A67721C-9B66-4EFA-A5E8-C4899F5D959B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_26_WasIst_LINQ_To_XML", "Modul25_26_WasIst_LINQ_To_XML\Modul25_26_WasIst_LINQ_To_XML.csproj", "{4144B377-FC85-460D-A553-B50B86F62C7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_26_WasIst_LINQ_To_XML", "Modul25_26_WasIst_LINQ_To_XML\Modul25_26_WasIst_LINQ_To_XML.csproj", "{4144B377-FC85-460D-A553-B50B86F62C7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_27_XML_ImCodeGenerierenSpeichernUndLaden", "Modul25_27_XML_ImCodeGenerierenSpeichernUndLaden\Modul25_27_XML_ImCodeGenerierenSpeichernUndLaden.csproj", "{081D31EC-9B4C-4295-97B6-A2892670038F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_27_XML_ImCodeGenerierenSpeichernUndLaden", "Modul25_27_XML_ImCodeGenerierenSpeichernUndLaden\Modul25_27_XML_ImCodeGenerierenSpeichernUndLaden.csproj", "{081D31EC-9B4C-4295-97B6-A2892670038F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_28_XML_DateienMit_LINQ_Abfragen", "Modul25_28_XML_DateienMit_LINQ_Abfragen\Modul25_28_XML_DateienMit_LINQ_Abfragen.csproj", "{DA451F94-B2BD-4D74-BA51-2AB73FBB15C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_29_XML_DateienBearbeitenMit_LINQ_to_XML", "Modul25_29_XML_DateienBearbeitenMit_LINQ_to_XML\Modul25_29_XML_DateienBearbeitenMit_LINQ_to_XML.csproj", "{C77AB57E-F937-4983-918C-1FAD2E2416F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -825,6 +829,14 @@ Global
 		{081D31EC-9B4C-4295-97B6-A2892670038F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{081D31EC-9B4C-4295-97B6-A2892670038F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{081D31EC-9B4C-4295-97B6-A2892670038F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA451F94-B2BD-4D74-BA51-2AB73FBB15C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA451F94-B2BD-4D74-BA51-2AB73FBB15C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA451F94-B2BD-4D74-BA51-2AB73FBB15C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA451F94-B2BD-4D74-BA51-2AB73FBB15C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77AB57E-F937-4983-918C-1FAD2E2416F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77AB57E-F937-4983-918C-1FAD2E2416F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77AB57E-F937-4983-918C-1FAD2E2416F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77AB57E-F937-4983-918C-1FAD2E2416F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
