@@ -275,9 +275,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_26_WasIst_LINQ_To_X
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_27_XML_ImCodeGenerierenSpeichernUndLaden", "Modul25_27_XML_ImCodeGenerierenSpeichernUndLaden\Modul25_27_XML_ImCodeGenerierenSpeichernUndLaden.csproj", "{081D31EC-9B4C-4295-97B6-A2892670038F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_28_XML_DateienMit_LINQ_Abfragen", "Modul25_28_XML_DateienMit_LINQ_Abfragen\Modul25_28_XML_DateienMit_LINQ_Abfragen.csproj", "{DA451F94-B2BD-4D74-BA51-2AB73FBB15C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_28_XML_DateienMit_LINQ_Abfragen", "Modul25_28_XML_DateienMit_LINQ_Abfragen\Modul25_28_XML_DateienMit_LINQ_Abfragen.csproj", "{DA451F94-B2BD-4D74-BA51-2AB73FBB15C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_29_XML_DateienBearbeitenMit_LINQ_to_XML", "Modul25_29_XML_DateienBearbeitenMit_LINQ_to_XML\Modul25_29_XML_DateienBearbeitenMit_LINQ_to_XML.csproj", "{C77AB57E-F937-4983-918C-1FAD2E2416F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul25_29_XML_DateienBearbeitenMit_LINQ_to_XML", "Modul25_29_XML_DateienBearbeitenMit_LINQ_to_XML\Modul25_29_XML_DateienBearbeitenMit_LINQ_to_XML.csproj", "{C77AB57E-F937-4983-918C-1FAD2E2416F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_30_DieDauerEineQueryMessen", "Modul25_30_DieDauerEineQueryMessen\Modul25_30_DieDauerEineQueryMessen.csproj", "{27929D7D-64F1-4F0C-A07F-24DB9316347E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul25_31_EinführungInParallel_LINQ", "Modul25_31_EinführungInParallel_LINQ\Modul25_31_EinführungInParallel_LINQ.csproj", "{434A6F09-09CE-4C4D-8510-BF70FE6AC1DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -837,6 +841,14 @@ Global
 		{C77AB57E-F937-4983-918C-1FAD2E2416F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C77AB57E-F937-4983-918C-1FAD2E2416F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C77AB57E-F937-4983-918C-1FAD2E2416F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27929D7D-64F1-4F0C-A07F-24DB9316347E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27929D7D-64F1-4F0C-A07F-24DB9316347E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27929D7D-64F1-4F0C-A07F-24DB9316347E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27929D7D-64F1-4F0C-A07F-24DB9316347E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434A6F09-09CE-4C4D-8510-BF70FE6AC1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434A6F09-09CE-4C4D-8510-BF70FE6AC1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434A6F09-09CE-4C4D-8510-BF70FE6AC1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434A6F09-09CE-4C4D-8510-BF70FE6AC1DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
